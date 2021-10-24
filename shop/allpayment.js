@@ -1,27 +1,27 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY MARCEL STORE
 
 *さ BANK*
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+	ㅁ KOSONG
+		•
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 083861929408
+		• -
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ 083861929408
+		• -
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 083861929408
+		• -
 
 *さ PULSA*
-1. SMARTFREN
-	ㅁ 0887 4350 47326
-2. TELKOMSEL
-	ㅁ 0821 9311 5723
+1. AXIS
+	ㅁ 083861929408
+2. INDOSAT
+	ㅁ 085741326180
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
